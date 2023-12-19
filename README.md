@@ -1,2 +1,2 @@
 # Quantum-Playground
-Implemented various simulations using Qiskit while studying Quantum Computation
+Implemented various concepts and simulated using Qiskit while studying Quantum Computation
