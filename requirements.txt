@@ -1,7 +1,4 @@
 jupyter
-qiskit
+qiskit==1.0.2
 qiskit-aer
-qiskit-ibm-provider
-qiskit-ibm-runtime
-matplotlib
 pylatexenc
